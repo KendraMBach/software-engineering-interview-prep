@@ -5,7 +5,7 @@ Welcome to my *in-progress* software engineering interview prep repo. Here you w
 - study material
     - paid
       - [Leetcode](https://leetcode.com) ---> this one is a given
-      - [AgoExpert](https://www.algoexpert.io/product) ---> I'm yet to try this I'm a fan of the founder Clément Mihailescu
+      - [AgoExpert](https://www.algoexpert.io/product) ---> I'm yet to try this but I'm a fan of the founder Clément Mihailescu
       - [educative.io](https://www.educative.io) ---> not terribly expensive if you subscribe.. plus all Grokking content (i.e. Grokking the Coding Interview: Patterns for Coding Questions, Grokking Dynamic Programming Patterns for Coding Interviews, Grokking the System Design Interview, etc) can be found here
       - [Interview Cake](https://www.interviewcake.com) ---> still considering this one.. more positive than negative reviews from what I've seen  
     - free
