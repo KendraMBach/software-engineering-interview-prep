@@ -25,6 +25,7 @@ Welcome to my *in-progress* software engineering interview prep repo. Here you w
       - dynamic programming:
         - resources:
             - [Top Coder](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
+            - [Grokking Dynamic Programming Patterns](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews)
     - solving problems
     - bitwise operations
 
