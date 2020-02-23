@@ -11,6 +11,7 @@ Welcome to my *in-progress* software engineering interview prep repo. Here you w
     - free
       - [Big-O-Cheat-Sheet](https://www.bigocheatsheet.com) ---> bookmark this ASAP if you haven't already
       - [HiredInTech](https://www.hiredintech.com/classrooms/algorithm-design/lesson/31) ---> so far so good
+      - [Top Coder](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - whiteboarding
     - best practices
     - helpful sites
