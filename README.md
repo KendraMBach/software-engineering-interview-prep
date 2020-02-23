@@ -16,9 +16,14 @@ Welcome to my *in-progress* software engineering interview prep repo. Here you w
     - helpful sites
     - resources and templates
 - code
-    - data structures
+    - data structures:
+     - lists
+     - stacks / queues 
+     - trees
     - algorithms
-      - design resources
+      - dynamic programming:
+        - resources:
+            - [Top Coder](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
     - solving problems
     - bitwise operations
 
