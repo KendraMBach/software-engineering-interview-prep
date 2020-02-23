@@ -37,3 +37,6 @@ If you're an aspiring FANNG engineer, you will be in awe of the repo and the guy
 ## Algorithm Design
 
 Download the Algorithm Design Canvas here: https://www.hiredintech.com/the-algorithm-design-canvas.pdf
+
+Refer to the following for additional details on each section of the canvas:
+- [Constraints](https://www.hiredintech.com/the-common-constraints-handout.pdf) ---> Based on the problem at hand, what questions should we keep in mind?
