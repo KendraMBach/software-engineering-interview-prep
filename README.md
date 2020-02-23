@@ -10,6 +10,7 @@ Welcome to my *in-progress* software engineering interview prep repo. Here you w
       - [Interview Cake](https://www.interviewcake.com) ---> still considering this one.. more positive than negative reviews from what I've seen  
     - free
       - [Big-O-Cheat-Sheet](https://www.bigocheatsheet.com) ---> bookmark this ASAP if you haven't already
+      - [HiredInTech](https://www.hiredintech.com/classrooms/algorithm-design/lesson/31) ---> so far so good
 - whiteboarding
     - best practices
     - helpful sites
