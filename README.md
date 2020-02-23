@@ -31,7 +31,7 @@ Language:
 
 Checkout jwasham's coding-interview-university repo: https://github.com/jwasham/coding-interview-university/blob/master/README.md#interview-process--general-interview-prep
 
-If you're an aspiring FANNG engineer, you will be in awe of the repo and the guy behind the code, as well.
+If you're an aspiring FANNG engineer, you will be in awe of the repo and the guy behind the code.
 
 ## Algorithm Design
 
