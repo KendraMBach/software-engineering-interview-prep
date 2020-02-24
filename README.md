@@ -41,6 +41,11 @@ Checkout jwasham's coding-interview-university repo: https://github.com/jwasham/
 
 If you're an aspiring FANNG engineer, you will be in awe of the repo and the guy behind the code.
 
+Another is from this leetcode discussion board post:
+https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
+
+The above post contains helpful YouTube playlists and detailed topics of focus.
+
 ## Algorithm Design
 
 Download the Algorithm Design Canvas here: https://www.hiredintech.com/the-algorithm-design-canvas.pdf
